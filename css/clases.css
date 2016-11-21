@@ -1,1 +1,12 @@
 /* Inserta tu codigo aqui */
+.cuandro{
+	height:70px;
+	
+}
+.cuandro h4,p{
+	text-align:center;
+	color:white;
+	background:black;
+	padding:10px;
+	margin:50px auto;
+}
