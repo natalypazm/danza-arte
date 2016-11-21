@@ -1,0 +1,68 @@
+/* Inserta tu codigo aqui */
+header{
+	background:url(../img/dance_7.jpg);
+	height:500px;
+	border-top:1px solid #BDBDBD;
+}
+.sobre_nosotros {
+    width: 490px;
+    background-color: transparent;
+    padding: 10px;
+    color:white;
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+}
+ 
+.background {
+    width: 490px;
+    height: 200px;
+    background-color:black;
+    padding: 10px;
+    margin: 210px auto;
+}
+ 
+.trans {
+    opacity: 0.5;
+}
+/**-------------------end header---------------------**/
+section{
+	background:url(../img/cubes.png);
+}
+.pilar{
+	color:#848484;
+	text-align: center;
+	width:300px;
+	padding:40px;
+}
+.pilar h3{
+	border-bottom: 1px solid #848484;
+	padding:10px;
+}
+.box{
+	padding:20px 170px;
+}
+
+/**-------------------end section---------------------**/
+.img img{
+	width:230px;
+	height:150px;
+}
+.img h3,p{
+	text-align:left;
+}
+
+.fila{
+ 	margin:70px 90px;
+ }
+.instructores{
+	padding-bottom:50px;
+}
+/**-------------------end profesores---------------------**/
+.frase{
+	background:url(../img/cubes.png);
+	font-size:40px;
+	font-style:italic;
+	padding:100px;
+	text-align:center;
+}
