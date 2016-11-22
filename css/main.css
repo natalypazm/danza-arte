@@ -1,1 +1,38 @@
-/* Inserta tu codigo aqui */
+
+form{
+	width:600px;
+	
+}
+form .form-control{
+	padding-left:25px;
+}
+form .msj{
+	padding-bottom:100px;
+	padding-top:13px;
+
+}
+button{
+	width:600px;
+	height:50px;
+	background:#08088A;
+}
+.caja{
+	margin:50px;
+	height:350px;
+	
+}
+.box{
+	background:url(../img/shoes_1.jpg)no-repeat white ;
+	background-size:contain;
+	background-position:right;
+	padding:5px;
+}
+h2{
+	color:#08088A;
+}
+footer{
+	background:#414880;
+	color:white;
+	padding-top:30px;
+}
+
