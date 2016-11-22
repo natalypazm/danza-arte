@@ -1,12 +1,28 @@
 /* Inserta tu codigo aqui */
-.cuandro{
-	height:70px;
+*{
+	outline:1px solid red;
+}
+.imagen,img{
+	width:280px;
+	height:350px;
+}
+.imagen img{
+	margin:0 auto;
+}
+.cuadro{
+	width:250px;
 	
 }
-.cuandro h4,p{
-	text-align:center;
+.imagen>div{
 	color:white;
-	background:black;
+	background-color:black;
+	opacity:0.5;
+	position:relative;
+	top:-200px;
+	left:15px;
+	text-align: center;
 	padding:10px;
-	margin:50px auto;
+}
+.columna{
+	margin:20px 180px;
 }
